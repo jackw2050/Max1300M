@@ -1,1 +1,1 @@
-from .core import hmm
+from .MAX1300M import MAX1300M
